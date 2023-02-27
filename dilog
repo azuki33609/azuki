@@ -1,0 +1,21 @@
+{Visibility:"VISIBLE",
+  
+  tip:"Video ကြည့်မရတာတွေအကုန်ဖစ်နေလို့ယခုလောလောဆယ် Download ပဲရပါလိမ့်မယ် ",
+
+title:"Video Player Error ",
+
+des:"လကုန်မအသစ်လေးတွေတင်ပေးပါမယ်",
+
+ddd:"Telegram Gpဝင်ရန်နှိပ့်ပါ",
+
+ Cancelable:"true",
+ 
+ button:"true",
+ 
+ main:"#000000",
+ 
+ out:"#FFFFFF",
+ 
+image:"https://www.elegantthemes.com/blog/wp-content/uploads/2020/08/000-http-error-codes.png",
+
+clicks:"https://t.me/+FU5rgniSxEg5NDdl"}
