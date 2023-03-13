@@ -1,19 +1,8 @@
-Visibility:"VISIBLE",
-  
-  tip:"Dark Plus",
-
-title:"Dark Plus ADM",
-
-des:"Dark Plus Update",
-
-ddd:"Updateတင်ရန်နိပ်ပါ",
-
- Cancelable:"true",
- 
- button:"true",
- 
- main:"#000000",
- 
- out:"#FFFFFF",
-
-clicks:"https://t.me/linhtet3211"}
+[
+  {
+    "Version": "3.2",
+    "Title": "Dark Plus Update",
+    "Description": "Dark Plus Update",
+    "DownloadLink": "https://i.imgur.com/YzOmjrK.jpg"
+  }
+]
