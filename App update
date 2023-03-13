@@ -1,7 +1,21 @@
-[
-  {
-    "Version": "3.2",
-    "title": "Dark Plus Update",
-    "link": "https://i.imgur.com/nCgQ1pN.jpg"
-  }
-]
+Visibility:"VISIBLE",
+  
+  tip:"Dark Plus",
+
+title:"Dark Plus ADM",
+
+des:"Dark Plus Update",
+
+ddd:"Updateတင်ရန်နိပ်ပါ",
+
+ Cancelable:"true",
+ 
+ button:"true",
+ 
+ main:"#000000",
+ 
+ out:"#FFFFFF",
+ 
+image:"https://i.imgur.com/YzOmjrK.jpg",
+
+clicks:"https://t.me/linhtet3211"}
