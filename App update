@@ -1,8 +1,19 @@
-[
-  {
-    "Version": "3.2",
-    "Title": "Dark Plus Update",
-    "Description": "Dark Plus Update",
-    "DownloadLink": "https://i.imgur.com/YzOmjrK.jpg"
-  }
-]
+{
+
+  "Visibility": "VISIBLE",
+
+  "Title": "New Update",
+
+  "Description": "Update Version 6.5 ပါနော်ဂေါင်းကြီးတို့",
+
+  "MainTextButton": "Update Install ",
+
+  "Cancelable": "false",
+
+  "CancelButtonText": "Cancel",
+
+  "DownloadLink": "https://www.mediafire.com/file/reo4nn2jw7pbg5x/Dark_Site_6.5.apk/file",
+
+  "Version": "6.5"
+
+}
