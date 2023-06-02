@@ -6574,4 +6574,20 @@ Amami Tsubasaဆိုတာနဲ့သူပါရင်ကိုဒေါင�
 "photo5":"https://pics.dmm.co.jp/digital/video/hmn00138/hmn00138jp-9.jpg",
 "dapp":"https://www.mediafire.com/file/uic48twwg4948lw/HMN_138_-HD.m4v/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"JUL-952mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ရပ်ကွက်ထဲ အသစ်ပြောင်းလာတဲ့ လင်မယားဆီကို
+အုပ်ကြီးက ညအိပ်စခန်းချ camp သွားဖို့အစီအစဉ်ရှိကြောင်းနဲ့ 
+အမျိုးသမီးအသင်းကလူတွေလည်းပါမှာ အကင်တွေလည်းလုပ်စားကြမှာ ရှုခင်းတွေလှတယ် ဓာတ်ဖမ်းလို့လည်းရတယ်ပေါ့ ကဲတကယ့်စခန်းချတဲ့နေရာမှာဘာတွေဖြစ်သွားမလဲ
+မင်းသမီးနာမည် Umi Natsukawa",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/j/jul/jul00952/playlist.m3u8",
+"download":"https://www.mediafire.com/file/oipmg7u0ynipsi2/Jul-952sd.mp4/file",
+"photo1":"https://i.imgur.com/Fcl7itM.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/jul00952/jul00952pl.jpg",
+"photo3":"https://raw.githubusercontent.com/minimyanmar/p6/main/IMG_20230601_224256.jpg",
+"photo4":"https://raw.githubusercontent.com/minimyanmar/p6/main/Picsart_23-06-01_22-42-14-502.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/jul00952/jul00952jp-5.jpg",
+"dapp":"https://www.mediafire.com/file/1i85bdnjjufu9oo/JUL-952hd.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
