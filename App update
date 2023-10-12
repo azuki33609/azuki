@@ -5,11 +5,11 @@
   "Title": "New Update",
 
   "Description": "App Errorကြောင် Update တင်ပေးကြပါ version တွင်Vip Keyပါ Free ပေးထားတယ် Vip KEY "15000" ပါ
-   ကားသစ်များနှင့်ပိုမိုကောင်မွန်စာအသုံးပြုနိုင်ရန် Update တင်ပေးကြပါ Update Version 7.0ပါနော်ဂေါင်းကြီးတို့ Vip Keyဝယ်ထားသူများလည်း အရင် Keyပဲပြန်သုံးပေးပါ ",
+   ကားသစ်များနှင့်ပိုမိုကောင်မွန်စာအသုံးပြုနိုင်ရန် Update တင်မရပါကကဖျက်ပီးPlay Store မှပြန်DownloadပါUpdate တင်ပေးကြပါ Update Version 7.0ပါနော်ဂေါင်းကြီးတို့ Vip Keyဝယ်ထားသူများလည်း အရင် Keyပဲပြန်သုံးပေးပါ ",
 
   "MainTextButton": "Update Install ",
 
-  "Cancelable": "false",
+  "Cancelable": "true",
 
   "CancelButtonText": "Cancel",
 
