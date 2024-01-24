@@ -1,0 +1,141 @@
+[
+{
+    "title": "FPRE_004_MMSUB",
+    "image": "https://www.dropbox.com/scl/fi/w09a7e4qof5dxe6kh3sf8/IMG_20240117_092553.jpg?rlkey=31errr4y1ptvzkht38kc3eypm&dl=1",
+"image1":"https://www.dropbox.com/scl/fi/5eywl569051kgj7iu0wx1/cover-FPRE-004.jpg?rlkey=e25msz4rji7cer8vbzi27zxgt&dl=1",
+"image2": "https://www.dropbox.com/scl/fi/x47a55urvh39xyxy7j7aj/media-4-FPRE-004.jpg?rlkey=24eobmlzpd4jpahyd2u7i6k0j&dl=1",
+"image3": "https://www.dropbox.com/scl/fi/gnmt6szcngyu6ugd6qogc/media-5-FPRE-004.jpg?rlkey=5wh7fmesq1w1xijl9nm64xifs&dl=1",
+"image4": "https://www.dropbox.com/scl/fi/gcluggzi3fh3o44n8xofb/media-9-FPRE-004.jpg?rlkey=j01pnufvvfu58zbvkxin3cqhr&dl=1",
+    "description": "မြန်မာစာတန်းထိုး
+
+သားဖြစ်သူက မိန်းမခိုးလာပြီး အိမ်ခေါ်လာခဲ့တယ်
+
+အဲမှာ ယောက္ခမထီးနဲ့ တွေ့ကြပါပီ
+
+ချွေးမက အကြောတင်းလေးဆိုတော့ ယောက္ခမထီးနဲ့ မတည့်ကြပါဘူး 
+
+ဘာတွေဆက်ဖြစ်မလဲ...
+
+မင်းသမီးနာမည် Mina Kitano
+Dark Plus ကိုကြိုက်နှစ်သက်ရင် Vip key ဝယ်ယူအားပေးနိုင်ပါသည် ချစ်ပရိသတ်တို့",
+    "link": "https://www.mediafire.com/file/w0ev8s72d2tskig/Fpre-004sd.mp4/file"
+  },
+
+
+{
+    "title": "SSIS_280_MMSUB",
+    "image": "https://www.dropbox.com/scl/fi/b6miokqkasf73g8jnhsj2/ssis280.jpg?rlkey=ygtfqn00j6b9cgj0ak7penjx5&dl=1",
+"image1":"https://www.dropbox.com/scl/fi/3gr9afuojx841ad7rn8h0/SSIS-280.webp?rlkey=mlnyvgrxrusxwhmzmjakkzqqh&dl=1",
+"image2": "https://www.dropbox.com/scl/fi/9m6wpzt2fgq9wosu0wslb/BgRCvbxh0RYAw379tnaDTU6BQBrTMJt0J3upLXnDmk.jpg?rlkey=wccblbf0incdyoumqf7quyj7h&dl=1",
+"image3": "https://www.dropbox.com/scl/fi/48222a4zmjb91sf46rj3x/ssis00280jp-5.jpg?rlkey=5gbonhdgxhbmq99b7807i84dp&dl=1",
+"image4": "https://www.dropbox.com/scl/fi/d126ipg2es5o9bmwbpyip/ssis00280jp-4.jpg?rlkey=x7itsrowoydgv9rw5jgxahlsv&dl=1",
+    "description": "မြန်မာစာတန်းထိုး
+
+ဇာတ်လမ်းမှာဆိုရင်လဲ သူမဟာ ကောလိပ်ကျောင်းသူတဖြစ်လဲ ဂိုက်ဆရာမလေးကို အချိန်ပိုင်းအနေနဲ့ ပြရင်း ဘဝကိုရုန်းကန်နေရှာသူလေးပေါ့…
+
+သင်တဲ့တပည့် စာကိုအာရုံစိုက်နိုင်ဖို့ဆို သူမရဲ့ တပည့်လေးအပေါ် မေတ္တာပိုသွားပုံကို သူမရဲ့အလှတရားတွေနဲ့အတူ ဖွင့်ဟပြသသွားမှာပါ
+
+မင်းသမီးနာမည် Saika Kawakita
+Dark Plus ကိုကြိုက်နှစ်သက်ရင် Vip key ဝယ်ယူအားပေးနိုင်ပါသည် ချစ်ပရိသတ်တို့",
+    "link": "https://www.mediafire.com/file/arah6e8j1zhi04i/Ssis-280sd.mp4/file"
+  },
+
+
+{
+    "title": "STARS_978_MMSUB",
+    "image": "https://www.dropbox.com/scl/fi/zgs3moq5y9dqap3am0aac/IMG_20240121_100516.jpg?rlkey=7we4t1elvmvl5pzimjkcnnoue&dl=1",
+"image1":"https://www.dropbox.com/scl/fi/03dd7gy7unpxwieg9yypc/STARS-978.jpg?rlkey=vi5h0b0o07m40hotcoc5vwmhj&dl=1",
+"image2": "https://www.dropbox.com/scl/fi/rt4roc1tbkuxizpq7y3lk/1stars00978jp-12.jpg?rlkey=e9u5c17r9k4m6a6e75vi9iznm&dl=1",
+"image3": "https://www.dropbox.com/scl/fi/wlea5jqm1jvhrskiuiimv/STARS-978-9.jpg?rlkey=xx8wyednibxz15lp20zbt957o&dl=1",
+"image4": "https://www.dropbox.com/scl/fi/si9s1zhs7gjb093mgwh4i/1stars00978jp-11.jpg?rlkey=x5g942q1ngxq45lwbomqsoj4p&dl=1",
+    "description": "မြန်မာစာတန်းထိုး
+
+ခါနာဆိုတဲ့ကောင်မလေးဟာ အမေနဲ့ရန်ဖြစ်ပြီး အဒေါ်အိမ်ကို ထွက်ပြေးလာတယ်
+
+အဒေါ်လင်မယားမှာလည်း သားတစ်ယောက်ရှိနေတဲ့အခါ အဆော့မက်တဲ့သူတို့နှစ်ယောက် ဘာတွေဆော့ကြမလဲ...
+
+မင်းသမီးနာမည် Kanan Amamiya
+Dark Plus ကိုကြိုက်နှစ်သက်ရင် Vip key ဝယ်ယူအားပေးနိုင်ပါသည် ချစ်ပရိသတ်တို့",
+    "link": "https://www.mediafire.com/file/yr01a3yeyk4ap0j/Stars-978sd.mp4/file"
+  },
+
+
+{
+    "title": "ABW_290_MMSUB",
+    "image": "https://www.dropbox.com/scl/fi/ynqhhw7scartzhqx29qw4/81rZa1pdoKL._AC_SL1500_.jpg?rlkey=tkjb36kjkq3bjtd6o4eun9nln&dl=1",
+"image1":"https://www.dropbox.com/scl/fi/n9sbagmxpcb6jtgzowj3a/ABW-290.webp?rlkey=46hbk0lj1f5c64tug2hoy9iwt&dl=1",
+"image2": "https://www.dropbox.com/scl/fi/ojna45uyiabxpml1zm79e/118abw290jp-8.jpg?rlkey=2muv57og2j21hy5kfjhzgorvd&dl=1",
+"image3": "https://www.dropbox.com/scl/fi/tbnuxm2fzuqpm1aukcog1/cap_e_6_abw-290.jpg?rlkey=uwv9rm6gy0zublx1ydx58dk17&dl=1",
+"image4": "https://www.dropbox.com/scl/fi/vk371gyi4ykx909zzt014/cap_e_8_abw-290.jpg?rlkey=if0meqppl0ldm26pmnneb8cz2&dl=1",
+    "description": "မြန်မာစာတန်းထိုး
+
+ဒီကားလေးထဲမှာတော့ ရွာမှာနေရတာ ပျင်းနေတဲ့ သူငယ်ချင်းမလေးရယ် မြို့တက်အလုပ်လုပ်တဲ့ သူငယ်ချင်းကောင်လေးရယ် အကြောင်းကို ရိုက်ပြထားတာပါ…..
+
+မြို့က ဆေးဆိုးပန်းရိုက်မျက်နှာတွေ ဘယ်လောက်လှလှ ရွာကအလှစစ်ကို မမေ့နိုင်လောက်အောင် ဖြစ်သွားတဲ့အထိ သူငယ်ချင်းကို ပြုစုပေးနိုင်တဲ့ သူငယ်ချင်းမလေးအကြောင်း တဝကြီးသာ ကြည့်ရှုခံစားလိုက်ပါဦး
+
+မင်းသမီးနာမည် Airi Suzumura
+Dark Plus ကိုကြိုက်နှစ်သက်ရင် Vip key ဝယ်ယူအားပေးနိုင်ပါသည် ချစ်ပရိသတ်တို့",
+    "link": "https://www.mediafire.com/file/4usjlelpxiw80iz/Abw-290sd.mp4/file"
+  },
+
+
+{
+    "title": "CAWD_574_MMSUB",
+    "image": "https://www.dropbox.com/scl/fi/uas5nnwhc9fi96bddio2d/1693539447.jpg?rlkey=bz6cm5315d8ytxcse00d9f55k&dl=1",
+"image1":"https://www.dropbox.com/scl/fi/m702fbqgwlav4rg8wikp5/CAWD-574.webp?rlkey=kvahvcqapn9tagls0lo0519zi&dl=1",
+"image2": "https://www.dropbox.com/scl/fi/idezus5ubfshzcx3872bo/cawd00574jp-8.jpg?rlkey=5ek6eucopjkkevzjmvgp6nzob&dl=1",
+"image3": "https://www.dropbox.com/scl/fi/wn8kpyd8a39zpjs2y2qyb/cawd00574jp-6.jpg?rlkey=53jkv02y4kd1xw5mg01mbr2pt&dl=1",
+"image4": "https://www.dropbox.com/scl/fi/c0csbbx257gg4jq7gsd86/cawd00574jp-9.jpg?rlkey=nd5vqcdxm5riev6dxbzf9ig4i&dl=1",
+    "description": "မြန်မာစာတန်းထိုး
+
+ဒီတစ်ခါတင်ဆက်ပေးမဲ့ကားလေးကတော့ ချစ်စရာသမီးပျိုလေး ၃ယောက်ရဲ့ လစ်ဟာမှုမရှိ အပြုအစုတွေကို ရိုက်ကူးတင်ဆက်ပြသပေးထားတဲ့ ကားလေးပဲဖြစ်ပါတယ်
+Dark Plus ကိုကြိုက်နှစ်သက်ရင် Vip key ဝယ်ယူအားပေးနိုင်ပါသည် ချစ်ပရိသတ်တို့",
+    "link": "https://www.mediafire.com/file/9dg12oe09bhrkqv/Cawd-574sd.mp4/file"
+  },
+
+
+{
+    "title": "MIAA_395_MMSUB",
+    "image": "https://www.dropbox.com/scl/fi/vi56j4ppjh8kzsx9fmuuz/in-the-absence-of-my-daughter-i-was-embarrassed-by.jpg?rlkey=6mebpjrxckbd9y7wlrhrpxfis&dl=1",
+"image1":"https://www.dropbox.com/scl/fi/rij75oo246p61km1pwd0b/MIAA-395.webp?rlkey=tudrihdr1kt7ebw77g3jz72rh&dl=1",
+"image2": "https://www.dropbox.com/scl/fi/b99gos2eyzihm69j3wx8v/miaa00395jp-5.jpg?rlkey=h4vbfw0e3tvtpe4cg84pryin2&dl=1",
+"image3": "https://www.dropbox.com/scl/fi/iacu25lswavaq0lvpd9qc/miaa00395jp-2.jpg?rlkey=0hfur552rm42qthsucaewvdp6&dl=1",
+"image4": "https://www.dropbox.com/scl/fi/pk6m2us9djdysbrvmqw2v/miaa00395jp-7.jpg?rlkey=knxs4nk2s77cg8da979b338np&dl=1",
+    "description": "မြန်မာစာတန်းထိုး
+
+ကောင်မလေးကိုအိမ်ထိလိုက်ဘုရင်း 
+
+ကောင်မလေးရဲ့အမေကိုပါ လိုက်ပွဲဆွဲသွားတဲ့ဇာတ်လမ်း
+
+မင်းသမီးနာမည် Hikari Sena
+Dark Plus ကိုကြိုက်နှစ်သက်ရင် Vip key ဝယ်ယူအားပေးနိုင်ပါသည် ချစ်ပရိသတ်တို့",
+    "link": "https://www.mediafire.com/file/eughgur88m65x8u/Miaa-395sd.mp4/file"
+  },
+
+
+{
+    "title": "MIMK_116_MMSUB",
+    "image": "https://www.dropbox.com/scl/fi/c7umwaqxylwtttd5g5tal/mimk-116-a-mother-and-daughter-who-came-to-religio.jpg?rlkey=qmg2xxvad6g1nppmfxhy37e98&dl=1",
+"image1":"https://www.dropbox.com/scl/fi/hupdrlgzqrfnykvmsnv2a/mimk116pl.jpg?rlkey=vyfdi7bzovlagj1zfivnif0wu&dl=1",
+"image2": "https://www.dropbox.com/scl/fi/xd3teko0czqurxz99wex5/mimk00116jp-8.jpg?rlkey=kx51mqvmvnxxashumljez9tk2&dl=1",
+"image3": "https://www.dropbox.com/scl/fi/znghws3ta8c5jsw6pq6ef/mimk00116jp-10.jpg?rlkey=rtx6jqhic7ukuy8ivdp2horsp&dl=1",
+"image4": "https://www.dropbox.com/scl/fi/6pri4p5zivzstgwmgzpzv/5QF7NlVunkCtformx0yQsg29QRMpfHd5jUba6EQ4.jpg?rlkey=xzaz2xej8k598exi34k7pxm3c&dl=1",
+    "description": "မြန်မာစာတန်းထိုး
+
+ကိုယ်ကိုသေဖို့ စီစဉ်နေတဲ့ကောင်လေးကို 
+
+ဘာသာရေးကိုးကွယ်တဲ့ အမေနဲ့ သမီးက သူတို့ဘာသာထဲဝင်ဖို့ ပြောရင်း  အမေရောသမီးပါ ဘယ်လိုစားလဲဆိုတာတော့..
+
+မင်းသမီးနာမည် Akari Niimura/Mizuki Yayoi
+Dark Plus ကိုကြိုက်နှစ်သက်ရင် Vip key ဝယ်ယူအားပေးနိုင်ပါသည် ချစ်ပရိသတ်တို့",
+    "link": "https://www.mediafire.com/file/zn11lkhydkok0rp/Mimk-116sd.mp4/file"
+  }
+] 
+
+    
+
+    
+
+    
+
+
