@@ -1,12 +1,12 @@
 {Visibility:"VISIBLE",
   
-  tip:"Dark Plus App Play Storeမှ ခနဖျက်ချခံထားရပါတယ်",
+  tip:"Dark Plus App ကို darkplus.proဆိုရိုက်downloadလိုရပါပိနော်",
 
 title:"Dark Plus ADM",
 
-des:"မကြာမီချိန်တွင်းမှာ အကောင်းဆုံးပြန်လာခဲ့ပါမယ်",
+des:"darkplus.pro",
 
-ddd:"Play Storeတွင် Downloadမရသေးပါ",
+ddd:"Chrome မှာ darkplus.pro ဆိုရိုက်downloadပါ",
 
  Cancelable:"true",
  
@@ -16,6 +16,6 @@ ddd:"Play Storeတွင် Downloadမရသေးပါ",
  
  out:"#FFFFFF",
  
-image:"https://www.dropbox.com/scl/fi/sed6l7kd3sqhbjv31bbke/IMG_20240307_174624.jpg?rlkey=bzmr97cou1xg4yrf68bb5h8a6&dl=1",
+image:"https://www.dropbox.com/scl/fi/lmwkxf4m21uhb2uwypwim/IMG_20240310_081401.jpg?rlkey=9exr5mtul3yb6v5629500ze6m&dl=1",
 
-clicks:"https://play.google.com/store/apps/details?id=com.my.DarkPlusPro"}
+clicks:"http://darkplus.pro"}
