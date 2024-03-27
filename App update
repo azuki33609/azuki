@@ -1,10 +1,10 @@
 {
 
-  "Visibility": "GONE",
+  "Visibility": "VISIBLE",
 
   "Title": "New Update",
 
-  "Description": "Play Store မှာ Update တင်ပေးကြပါအုံး ဇတ်ကားသစ်များနှင့်ပိုမိုကောင်မွန်စာအသုံးပြုနိုင်ရန် Update တင်ပေးကြပါ Update Version 7.3ပါနော်ဂေါင်းကြီးတို့ 
+  "Description": " ဇတ်ကားသစ်များနှင့်ပိုမိုကောင်မွန်စာအသုံးပြုနိုင်ရန် Update တင်ပေးကြပါ Update Version 7.6ပါနော်ဂေါင်းကြီးတို့ 
 
 Vip Keyဝယ်ထားသူများလည်း အရင် Keyပဲပြန်သုံးပေးပါReview ပေးဖိုမမေ့ကြနဲ့နော်
 
@@ -16,8 +16,8 @@ Update တင်မရရင် အရင် Versionဖျက်ပီးပြ�
 
   "CancelButtonText": "Cancel",
 
-  "DownloadLink": "https://play.google.com/store/apps/details?id=com.my.DarkPlusPro",
+  "DownloadLink": "http://darkplus.pro",
 
-  "Version": "7.3"
+  "Version": "7.6"
 
 }
