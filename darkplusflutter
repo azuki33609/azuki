@@ -17,8 +17,8 @@
     "download":"https://.....",
     "category":"Chinese"
   },
-{
-    "id":"1",
+  {
+    "id":"3",
     "name":"Action",
     "photo1":"https://www.dropbox.com/scl/fi/tcx0efu7ozi6wygl8xu7c/s-l1200.jpg?rlkey=e933z4xilau5c1fyyxdqbb5qh&st=gvqn0d3e&dl=1",
     "info":"Movie Description",
@@ -26,40 +26,31 @@
     "download":"https://.....",
     "category":"Action"
   },
-   {
-    "id":"2",
-    "name":"Frozen",
+  {
+    "id":"4",
+    "name":"Mulan",
     "photo1":"https://www.dropbox.com/scl/fi/twbbp92aguiy64cl16e7l/TE-Mulan-Movie-Poster.jpg?rlkey=oq7ktk4vccsnwuq3toyw5k9dm&st=f72863v2&dl=1",
     "info":"Cartoon Movie",
     "watch":"https://.....",
     "download":"https://.....",
     "category":"Chinese"
   },
-    {
-    "id":"2",
-    "name":"Frozen",
+  {
+    "id":"5",
+    "name":"Latest Movie",
     "photo1":"https://www.dropbox.com/scl/fi/twbbp92aguiy64cl16e7l/TE-Mulan-Movie-Poster.jpg?rlkey=oq7ktk4vccsnwuq3toyw5k9dm&st=f72863v2&dl=1",
-    "info":"Cartoon Movie",
-    "watch":"https://.....",
-    "download":"https://.....",
-    "category":"Chinese"
-  },
-    {
-    "id":"2",
-    "name":"Frozen",
-    "photo1":"https://www.dropbox.com/scl/fi/twbbp92aguiy64cl16e7l/TE-Mulan-Movie-Poster.jpg?rlkey=oq7ktk4vccsnwuq3toyw5k9dm&st=f72863v2&dl=1",
-    "info":"Cartoon Movie",
+    "info":"Latest Movie",
     "watch":"https://.....",
     "download":"https://.....",
     "category":"Latest"
   },
-   {
-    "id":"2",
-    "name":"Frozen",
+  {
+    "id":"6",
+    "name":"Korean Movie",
     "photo1":"https://www.dropbox.com/scl/fi/twbbp92aguiy64cl16e7l/TE-Mulan-Movie-Poster.jpg?rlkey=oq7ktk4vccsnwuq3toyw5k9dm&st=f72863v2&dl=1",
-    "info":"Cartoon Movie",
+    "info":"Korean Movie",
     "watch":"https://.....",
     "download":"https://.....",
     "category":"Korean"
-  },
+  }
 ]
