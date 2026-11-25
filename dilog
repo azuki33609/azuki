@@ -1,12 +1,12 @@
 {Visibility:"VISIBLE",
   
-  tip:"Dark Plus App ကို darkpluspro.com ဆိုရိုက်downloadလိုရပါပိနော်",
+  tip:"Dark Plus App ကို darkplusapp.com ဆိုရိုက်downloadလိုရပါပိနော်",
 
 title:"Dark Plus ADM",
 
 des:"darkpluspro.com",
 
-ddd:"Chrome မှာ darkpluspro.com ဆိုရိုက်downloadပါ",
+ddd:"Chrome မှာ darkplusapp.com ဆိုရိုက်downloadပါ",
 
  Cancelable:"true",
  
@@ -18,4 +18,4 @@ ddd:"Chrome မှာ darkpluspro.com ဆိုရိုက်downloadပါ",
  
 image:"https://www.dropbox.com/scl/fi/3n5r9amltusui47jwts37/Picsart_25-07-23_10-10-31-845.jpg?rlkey=9x0mup9gb3eexgavtdh39w596&st=2ys7ad97&dl=1",
 
-clicks:"http://darkpluspro.com"}
+clicks:"http://darkplusapp.com"}
